@@ -4,7 +4,7 @@
 
 > Sobre o desafio "Pricing Table"
 
-Desafio construído no discover da Rocketseat, criando os planos de preço de forma ilustrativa.
+Desafio construído no discover da Rocketseat, criando tabela com os planos de preço.
 
 [🔗Clique aqui para acessar](https://ery10.github.io/Pricing-Table/)
 
